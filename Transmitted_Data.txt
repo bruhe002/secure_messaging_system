@@ -1,0 +1,18 @@
+
+[Sun May 14 16:00:28 2023]: Eve has joined the chat!
+[Sun May 14 16:00:50 2023]: Adam has joined the chat!
+[Sun May 14 16:00:57 2023]: Adam--> Hello
+[Sun May 14 16:01:02 2023]: Eve--> Hi
+[Sun May 14 16:01:10 2023]: Eve--> How are you
+[Sun May 14 16:01:22 2023]: Adam--> I'm fin just a little under the weather
+[Sun May 14 16:01:29 2023]: Adam--> fine*
+[Sun May 14 16:01:40 2023]: Eve--> Yea I feel ya
+[Sun May 14 16:01:53 2023]: Eve--> I know what can make you feel better ;)
+[Sun May 14 16:02:07 2023]: Adam--> lol whats that?
+[Sun May 14 16:02:50 2023]: Eve has left the chat!
+[Sun May 14 16:02:57 2023]: Adam--> ahh bitch
+[Sun May 14 16:03:04 2023]: Eve has joined the chat!
+[Sun May 14 16:03:10 2023]: Eve--> Lol jkjk
+[Sun May 14 16:03:21 2023]: Adam--> haha it's fine
+[Sun May 14 16:04:42 2023]: Adam has left the chat!
+[Sun May 14 16:04:52 2023]: Eve has left the chat!
