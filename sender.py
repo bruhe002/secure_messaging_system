@@ -1,5 +1,4 @@
 from Party_Class import MessangerParty
-from chat_interface import Interface
 from methods import return_time_stamp, reading_file
 import multiprocessing
 import time
@@ -23,10 +22,9 @@ if __name__ == '__main__':
     f = open(FILE_NAME, "a")
 
     f.write("[" + return_time_stamp() + "]: " + sender.name + " has joined the chat!\n")
-    Interface.Users = Interface.Users + 1
-    print(Interface.Users)
     f.close()
     f = open(FILE_NAME, "r")
+    f.seek(0, 0)
     print(f.readline())
     f.seek(0, 0)
     f.close()
